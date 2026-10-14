@@ -1,0 +1,6 @@
+{
+  "name": "TN Stories - Tamil Nadu Smart Tourism",
+  "description": "AI-Powered Tamil Nadu Tourism & Smart Trip Booking Platform with personalized itineraries, flexible bookings, weather safety danger zones, offline trip mode, and daily spin rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
